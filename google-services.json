@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1070845763180",
+    "firebase_url": "https://tic-tac-toe-388ab.firebaseio.com",
+    "project_id": "tic-tac-toe-388ab",
+    "storage_bucket": "tic-tac-toe-388ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070845763180:android:399e104e772969e0",
+        "android_client_info": {
+          "package_name": "foxycorp.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070845763180-ldtc7q9c58a0r0kt8u3cdshll4pnd8dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvFSscruf3-99xE0WwZVo51aa2jV5Kaek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
